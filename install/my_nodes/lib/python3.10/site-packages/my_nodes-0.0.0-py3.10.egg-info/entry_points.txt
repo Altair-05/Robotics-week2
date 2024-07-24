@@ -1,0 +1,4 @@
+[console_scripts]
+integer_generator = my_nodes.integer_generator:main
+odd_even_classifier = my_nodes.odd_even_classifier:main
+

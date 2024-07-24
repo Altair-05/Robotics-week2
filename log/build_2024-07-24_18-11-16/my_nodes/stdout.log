@@ -1,0 +1,39 @@
+running egg_info
+creating ../../build/my_nodes/my_nodes.egg-info
+writing ../../build/my_nodes/my_nodes.egg-info/PKG-INFO
+writing dependency_links to ../../build/my_nodes/my_nodes.egg-info/dependency_links.txt
+writing entry points to ../../build/my_nodes/my_nodes.egg-info/entry_points.txt
+writing requirements to ../../build/my_nodes/my_nodes.egg-info/requires.txt
+writing top-level names to ../../build/my_nodes/my_nodes.egg-info/top_level.txt
+writing manifest file '../../build/my_nodes/my_nodes.egg-info/SOURCES.txt'
+reading manifest file '../../build/my_nodes/my_nodes.egg-info/SOURCES.txt'
+writing manifest file '../../build/my_nodes/my_nodes.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/dakshata/ros2_ws/build/my_nodes/build
+creating /home/dakshata/ros2_ws/build/my_nodes/build/lib
+creating /home/dakshata/ros2_ws/build/my_nodes/build/lib/my_nodes
+copying my_nodes/odd_even_classifier.py -> /home/dakshata/ros2_ws/build/my_nodes/build/lib/my_nodes
+copying my_nodes/__init__.py -> /home/dakshata/ros2_ws/build/my_nodes/build/lib/my_nodes
+copying my_nodes/integer_generator.py -> /home/dakshata/ros2_ws/build/my_nodes/build/lib/my_nodes
+running install
+running install_lib
+creating /home/dakshata/ros2_ws/install/my_nodes/lib/python3.10/site-packages/my_nodes
+copying /home/dakshata/ros2_ws/build/my_nodes/build/lib/my_nodes/odd_even_classifier.py -> /home/dakshata/ros2_ws/install/my_nodes/lib/python3.10/site-packages/my_nodes
+copying /home/dakshata/ros2_ws/build/my_nodes/build/lib/my_nodes/__init__.py -> /home/dakshata/ros2_ws/install/my_nodes/lib/python3.10/site-packages/my_nodes
+copying /home/dakshata/ros2_ws/build/my_nodes/build/lib/my_nodes/integer_generator.py -> /home/dakshata/ros2_ws/install/my_nodes/lib/python3.10/site-packages/my_nodes
+byte-compiling /home/dakshata/ros2_ws/install/my_nodes/lib/python3.10/site-packages/my_nodes/odd_even_classifier.py to odd_even_classifier.cpython-310.pyc
+byte-compiling /home/dakshata/ros2_ws/install/my_nodes/lib/python3.10/site-packages/my_nodes/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/dakshata/ros2_ws/install/my_nodes/lib/python3.10/site-packages/my_nodes/integer_generator.py to integer_generator.cpython-310.pyc
+running install_data
+creating /home/dakshata/ros2_ws/install/my_nodes/share/ament_index
+creating /home/dakshata/ros2_ws/install/my_nodes/share/ament_index/resource_index
+creating /home/dakshata/ros2_ws/install/my_nodes/share/ament_index/resource_index/packages
+copying resource/my_nodes -> /home/dakshata/ros2_ws/install/my_nodes/share/ament_index/resource_index/packages
+copying package.xml -> /home/dakshata/ros2_ws/install/my_nodes/share/my_nodes
+running install_egg_info
+Copying ../../build/my_nodes/my_nodes.egg-info to /home/dakshata/ros2_ws/install/my_nodes/lib/python3.10/site-packages/my_nodes-0.0.0-py3.10.egg-info
+running install_scripts
+Installing integer_generator script to /home/dakshata/ros2_ws/install/my_nodes/lib/my_nodes
+Installing odd_even_classifier script to /home/dakshata/ros2_ws/install/my_nodes/lib/my_nodes
+writing list of installed files to '/home/dakshata/ros2_ws/build/my_nodes/install.log'
