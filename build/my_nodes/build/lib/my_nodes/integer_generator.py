@@ -7,11 +7,11 @@ class IntegerGenerator(Node):
     def __init__(self):
         super().__init__('integer_generator')
         self.publisher = self.create_publisher(Int32, '/integers', 10)
-        self.timer = self.create_timer(1.0, self.publish_integer)  # Publish every 1 second
+        self.timer = self.create_timer(2.0, self.publish_integer)  
 
     def publish_integer(self):
         msg = Int32()
-        msg.data = random.randint(0, 100)  # Generating a random integer between 0 and 100
+        msg.data = random.randint(0, 1000)  
         self.publisher.publish(msg)
         self.get_logger().info(f'Published integer: {msg.data}')
 

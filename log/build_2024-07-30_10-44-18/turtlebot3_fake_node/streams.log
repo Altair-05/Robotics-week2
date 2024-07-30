@@ -1,0 +1,78 @@
+[0.022s] Invoking command in '/home/dakshata/ros2_ws/build/turtlebot3_fake_node': CMAKE_PREFIX_PATH=/home/dakshata/ros2_ws/install/my_turtlebot3_controller:/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake /home/dakshata/ros2_ws/src/turtlebot3_simulations/turtlebot3_fake_node -DCMAKE_INSTALL_PREFIX=/home/dakshata/ros2_ws/install/turtlebot3_fake_node
+[0.329s] -- The C compiler identification is GNU 11.4.0
+[0.350s] -- The CXX compiler identification is GNU 11.4.0
+[0.361s] -- Detecting C compiler ABI info
+[0.450s] -- Detecting C compiler ABI info - done
+[0.464s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.465s] -- Detecting C compile features
+[0.466s] -- Detecting C compile features - done
+[0.470s] -- Detecting CXX compiler ABI info
+[0.584s] -- Detecting CXX compiler ABI info - done
+[0.599s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.599s] -- Detecting CXX compile features
+[0.600s] -- Detecting CXX compile features - done
+[0.603s] -- Found ament_cmake: 1.3.9 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.219s] -- Found Python3: /home/dakshata/anaconda3/bin/python3 (found version "3.11.7") found components: Interpreter 
+[1.398s] -- Found geometry_msgs: 4.2.4 (/opt/ros/humble/share/geometry_msgs/cmake)
+[1.495s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[1.507s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[1.524s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[1.574s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.643s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.896s] -- Found nav_msgs: 4.2.4 (/opt/ros/humble/share/nav_msgs/cmake)
+[2.012s] -- Found rclcpp: 16.0.9 (/opt/ros/humble/share/rclcpp/cmake)
+[2.101s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[2.106s] -- Found rmw_fastrtps_cpp: 6.2.6 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[2.236s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[2.279s] -- Found FastRTPS: /opt/ros/humble/include  
+[2.338s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[2.352s] -- Looking for pthread.h
+[2.415s] -- Looking for pthread.h - found
+[2.415s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[2.482s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[2.483s] -- Found Threads: TRUE  
+[2.622s] -- Found sensor_msgs: 4.2.4 (/opt/ros/humble/share/sensor_msgs/cmake)
+[2.711s] -- Found tf2: 0.25.7 (/opt/ros/humble/share/tf2/cmake)
+[2.730s] -- Found tf2_msgs: 0.25.7 (/opt/ros/humble/share/tf2_msgs/cmake)
+[2.887s] -- Found turtlebot3_msgs: 2.2.3 (/opt/ros/humble/share/turtlebot3_msgs/cmake)
+[3.060s] -- Configuring done
+[3.073s] -- Generating done
+[3.074s] -- Build files have been written to: /home/dakshata/ros2_ws/build/turtlebot3_fake_node
+[3.084s] Invoked command in '/home/dakshata/ros2_ws/build/turtlebot3_fake_node' returned '0': CMAKE_PREFIX_PATH=/home/dakshata/ros2_ws/install/my_turtlebot3_controller:/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake /home/dakshata/ros2_ws/src/turtlebot3_simulations/turtlebot3_fake_node -DCMAKE_INSTALL_PREFIX=/home/dakshata/ros2_ws/install/turtlebot3_fake_node
+[3.086s] Invoking command in '/home/dakshata/ros2_ws/build/turtlebot3_fake_node': CMAKE_PREFIX_PATH=/home/dakshata/ros2_ws/install/my_turtlebot3_controller:/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /home/dakshata/ros2_ws/build/turtlebot3_fake_node -- -j8 -l8
+[3.132s] [ 50%] [32mBuilding CXX object CMakeFiles/turtlebot3_fake_node.dir/src/turtlebot3_fake_node.cpp.o[0m
+[16.664s] [100%] [32m[1mLinking CXX executable turtlebot3_fake_node[0m
+[17.680s] [100%] Built target turtlebot3_fake_node
+[17.696s] Invoked command in '/home/dakshata/ros2_ws/build/turtlebot3_fake_node' returned '0': CMAKE_PREFIX_PATH=/home/dakshata/ros2_ws/install/my_turtlebot3_controller:/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /home/dakshata/ros2_ws/build/turtlebot3_fake_node -- -j8 -l8
+[17.749s] Invoking command in '/home/dakshata/ros2_ws/build/turtlebot3_fake_node': CMAKE_PREFIX_PATH=/home/dakshata/ros2_ws/install/my_turtlebot3_controller:/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --install /home/dakshata/ros2_ws/build/turtlebot3_fake_node
+[17.760s] -- Install configuration: ""
+[17.760s] -- Installing: /home/dakshata/ros2_ws/install/turtlebot3_fake_node/lib/turtlebot3_fake_node/turtlebot3_fake_node
+[17.767s] -- Set runtime path of "/home/dakshata/ros2_ws/install/turtlebot3_fake_node/lib/turtlebot3_fake_node/turtlebot3_fake_node" to ""
+[17.768s] -- Installing: /home/dakshata/ros2_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/launch
+[17.768s] -- Installing: /home/dakshata/ros2_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/launch/rviz2.launch.py
+[17.768s] -- Installing: /home/dakshata/ros2_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/launch/turtlebot3_fake_node.launch.py
+[17.769s] -- Installing: /home/dakshata/ros2_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/param
+[17.769s] -- Installing: /home/dakshata/ros2_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/param/burger.yaml
+[17.769s] -- Installing: /home/dakshata/ros2_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/param/waffle.yaml
+[17.770s] -- Installing: /home/dakshata/ros2_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/param/waffle_pi.yaml
+[17.770s] -- Installing: /home/dakshata/ros2_ws/install/turtlebot3_fake_node/include/
+[17.770s] -- Installing: /home/dakshata/ros2_ws/install/turtlebot3_fake_node/include//turtlebot3_fake_node
+[17.770s] -- Installing: /home/dakshata/ros2_ws/install/turtlebot3_fake_node/include//turtlebot3_fake_node/turtlebot3_fake_node.hpp
+[17.771s] -- Installing: /home/dakshata/ros2_ws/install/turtlebot3_fake_node/share/ament_index/resource_index/package_run_dependencies/turtlebot3_fake_node
+[17.771s] -- Installing: /home/dakshata/ros2_ws/install/turtlebot3_fake_node/share/ament_index/resource_index/parent_prefix_path/turtlebot3_fake_node
+[17.771s] -- Installing: /home/dakshata/ros2_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/environment/ament_prefix_path.sh
+[17.771s] -- Installing: /home/dakshata/ros2_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/environment/ament_prefix_path.dsv
+[17.772s] -- Installing: /home/dakshata/ros2_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/environment/path.sh
+[17.772s] -- Installing: /home/dakshata/ros2_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/environment/path.dsv
+[17.772s] -- Installing: /home/dakshata/ros2_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/local_setup.bash
+[17.772s] -- Installing: /home/dakshata/ros2_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/local_setup.sh
+[17.773s] -- Installing: /home/dakshata/ros2_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/local_setup.zsh
+[17.773s] -- Installing: /home/dakshata/ros2_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/local_setup.dsv
+[17.773s] -- Installing: /home/dakshata/ros2_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/package.dsv
+[17.773s] -- Installing: /home/dakshata/ros2_ws/install/turtlebot3_fake_node/share/ament_index/resource_index/packages/turtlebot3_fake_node
+[17.774s] -- Installing: /home/dakshata/ros2_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/cmake/ament_cmake_export_include_directories-extras.cmake
+[17.774s] -- Installing: /home/dakshata/ros2_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/cmake/ament_cmake_export_dependencies-extras.cmake
+[17.774s] -- Installing: /home/dakshata/ros2_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/cmake/turtlebot3_fake_nodeConfig.cmake
+[17.774s] -- Installing: /home/dakshata/ros2_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/cmake/turtlebot3_fake_nodeConfig-version.cmake
+[17.774s] -- Installing: /home/dakshata/ros2_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/package.xml
+[17.778s] Invoked command in '/home/dakshata/ros2_ws/build/turtlebot3_fake_node' returned '0': CMAKE_PREFIX_PATH=/home/dakshata/ros2_ws/install/my_turtlebot3_controller:/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --install /home/dakshata/ros2_ws/build/turtlebot3_fake_node

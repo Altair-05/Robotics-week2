@@ -12,6 +12,3 @@ my_nodes/__init__.py
 my_nodes/integer_generator.py
 my_nodes/odd_even_classifier.py
 resource/my_nodes
-test/test_copyright.py
-test/test_flake8.py
-test/test_pep257.py

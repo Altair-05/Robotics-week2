@@ -1,0 +1,27 @@
+[0.896s] Invoking command in '/home/dakshata/ros2_ws/src/my_turtlebot3_controller': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/dakshata/ros2_ws/build/my_turtlebot3_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/dakshata/ros2_ws/install/my_turtlebot3_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_turtlebot3_controller build --build-base /home/dakshata/ros2_ws/build/my_turtlebot3_controller/build install --record /home/dakshata/ros2_ws/build/my_turtlebot3_controller/install.log --single-version-externally-managed install_data
+[1.277s] running egg_info
+[1.278s] writing ../../build/my_turtlebot3_controller/my_turtlebot3_controller.egg-info/PKG-INFO
+[1.278s] writing dependency_links to ../../build/my_turtlebot3_controller/my_turtlebot3_controller.egg-info/dependency_links.txt
+[1.278s] writing entry points to ../../build/my_turtlebot3_controller/my_turtlebot3_controller.egg-info/entry_points.txt
+[1.278s] writing requirements to ../../build/my_turtlebot3_controller/my_turtlebot3_controller.egg-info/requires.txt
+[1.279s] writing top-level names to ../../build/my_turtlebot3_controller/my_turtlebot3_controller.egg-info/top_level.txt
+[1.281s] reading manifest file '../../build/my_turtlebot3_controller/my_turtlebot3_controller.egg-info/SOURCES.txt'
+[1.282s] writing manifest file '../../build/my_turtlebot3_controller/my_turtlebot3_controller.egg-info/SOURCES.txt'
+[1.282s] running build
+[1.282s] running build_py
+[1.283s] copying my_turtlebot3_controller/move_to_goal.py -> /home/dakshata/ros2_ws/build/my_turtlebot3_controller/build/lib/my_turtlebot3_controller
+[1.283s] running install
+[1.284s] running install_lib
+[1.285s] copying /home/dakshata/ros2_ws/build/my_turtlebot3_controller/build/lib/my_turtlebot3_controller/move_to_goal.py -> /home/dakshata/ros2_ws/install/my_turtlebot3_controller/lib/python3.10/site-packages/my_turtlebot3_controller
+[1.286s] byte-compiling /home/dakshata/ros2_ws/install/my_turtlebot3_controller/lib/python3.10/site-packages/my_turtlebot3_controller/move_to_goal.py to move_to_goal.cpython-310.pyc
+[1.287s] running install_data
+[1.287s] running install_egg_info
+[1.290s] removing '/home/dakshata/ros2_ws/install/my_turtlebot3_controller/lib/python3.10/site-packages/my_turtlebot3_controller-0.0.0-py3.10.egg-info' (and everything under it)
+[1.291s] Copying ../../build/my_turtlebot3_controller/my_turtlebot3_controller.egg-info to /home/dakshata/ros2_ws/install/my_turtlebot3_controller/lib/python3.10/site-packages/my_turtlebot3_controller-0.0.0-py3.10.egg-info
+[1.292s] running install_scripts
+[1.320s] Installing keyboard_control script to /home/dakshata/ros2_ws/install/my_turtlebot3_controller/lib/my_turtlebot3_controller
+[1.321s] Installing move_constant_velocity script to /home/dakshata/ros2_ws/install/my_turtlebot3_controller/lib/my_turtlebot3_controller
+[1.321s] Installing move_to_goal script to /home/dakshata/ros2_ws/install/my_turtlebot3_controller/lib/my_turtlebot3_controller
+[1.321s] Installing stop_before_obstacle script to /home/dakshata/ros2_ws/install/my_turtlebot3_controller/lib/my_turtlebot3_controller
+[1.322s] writing list of installed files to '/home/dakshata/ros2_ws/build/my_turtlebot3_controller/install.log'
+[1.366s] Invoked command in '/home/dakshata/ros2_ws/src/my_turtlebot3_controller' returned '0': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/dakshata/ros2_ws/build/my_turtlebot3_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/dakshata/ros2_ws/install/my_turtlebot3_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_turtlebot3_controller build --build-base /home/dakshata/ros2_ws/build/my_turtlebot3_controller/build install --record /home/dakshata/ros2_ws/build/my_turtlebot3_controller/install.log --single-version-externally-managed install_data

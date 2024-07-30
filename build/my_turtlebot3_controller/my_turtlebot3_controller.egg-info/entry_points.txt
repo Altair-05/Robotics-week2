@@ -1,0 +1,6 @@
+[console_scripts]
+keyboard_control = my_turtlebot3_controller.keyboard_control:main
+move_constant_velocity = my_turtlebot3_controller.move_constant_velocity:main
+move_to_goal = my_turtlebot3_controller.move_to_goal:main
+stop_before_obstacle = my_turtlebot3_controller.stop_before_obstacle:main
+

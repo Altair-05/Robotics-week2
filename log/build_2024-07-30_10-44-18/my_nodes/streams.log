@@ -1,0 +1,41 @@
+[1.310s] Invoking command in '/home/dakshata/ros2_ws/src/my_nodes': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/dakshata/ros2_ws/build/my_nodes/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/dakshata/ros2_ws/install/my_nodes/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_nodes build --build-base /home/dakshata/ros2_ws/build/my_nodes/build install --record /home/dakshata/ros2_ws/build/my_nodes/install.log --single-version-externally-managed install_data
+[1.791s] running egg_info
+[1.792s] creating ../../build/my_nodes/my_nodes.egg-info
+[1.793s] writing ../../build/my_nodes/my_nodes.egg-info/PKG-INFO
+[1.793s] writing dependency_links to ../../build/my_nodes/my_nodes.egg-info/dependency_links.txt
+[1.793s] writing entry points to ../../build/my_nodes/my_nodes.egg-info/entry_points.txt
+[1.794s] writing requirements to ../../build/my_nodes/my_nodes.egg-info/requires.txt
+[1.794s] writing top-level names to ../../build/my_nodes/my_nodes.egg-info/top_level.txt
+[1.794s] writing manifest file '../../build/my_nodes/my_nodes.egg-info/SOURCES.txt'
+[1.796s] reading manifest file '../../build/my_nodes/my_nodes.egg-info/SOURCES.txt'
+[1.797s] writing manifest file '../../build/my_nodes/my_nodes.egg-info/SOURCES.txt'
+[1.798s] running build
+[1.798s] running build_py
+[1.798s] creating /home/dakshata/ros2_ws/build/my_nodes/build
+[1.798s] creating /home/dakshata/ros2_ws/build/my_nodes/build/lib
+[1.798s] creating /home/dakshata/ros2_ws/build/my_nodes/build/lib/my_nodes
+[1.799s] copying my_nodes/odd_even_classifier.py -> /home/dakshata/ros2_ws/build/my_nodes/build/lib/my_nodes
+[1.799s] copying my_nodes/__init__.py -> /home/dakshata/ros2_ws/build/my_nodes/build/lib/my_nodes
+[1.799s] copying my_nodes/integer_generator.py -> /home/dakshata/ros2_ws/build/my_nodes/build/lib/my_nodes
+[1.799s] running install
+[1.800s] running install_lib
+[1.801s] creating /home/dakshata/ros2_ws/install/my_nodes/lib/python3.10/site-packages/my_nodes
+[1.801s] copying /home/dakshata/ros2_ws/build/my_nodes/build/lib/my_nodes/odd_even_classifier.py -> /home/dakshata/ros2_ws/install/my_nodes/lib/python3.10/site-packages/my_nodes
+[1.802s] copying /home/dakshata/ros2_ws/build/my_nodes/build/lib/my_nodes/__init__.py -> /home/dakshata/ros2_ws/install/my_nodes/lib/python3.10/site-packages/my_nodes
+[1.802s] copying /home/dakshata/ros2_ws/build/my_nodes/build/lib/my_nodes/integer_generator.py -> /home/dakshata/ros2_ws/install/my_nodes/lib/python3.10/site-packages/my_nodes
+[1.802s] byte-compiling /home/dakshata/ros2_ws/install/my_nodes/lib/python3.10/site-packages/my_nodes/odd_even_classifier.py to odd_even_classifier.cpython-310.pyc
+[1.803s] byte-compiling /home/dakshata/ros2_ws/install/my_nodes/lib/python3.10/site-packages/my_nodes/__init__.py to __init__.cpython-310.pyc
+[1.803s] byte-compiling /home/dakshata/ros2_ws/install/my_nodes/lib/python3.10/site-packages/my_nodes/integer_generator.py to integer_generator.cpython-310.pyc
+[1.804s] running install_data
+[1.804s] creating /home/dakshata/ros2_ws/install/my_nodes/share/ament_index
+[1.804s] creating /home/dakshata/ros2_ws/install/my_nodes/share/ament_index/resource_index
+[1.805s] creating /home/dakshata/ros2_ws/install/my_nodes/share/ament_index/resource_index/packages
+[1.805s] copying resource/my_nodes -> /home/dakshata/ros2_ws/install/my_nodes/share/ament_index/resource_index/packages
+[1.805s] copying package.xml -> /home/dakshata/ros2_ws/install/my_nodes/share/my_nodes
+[1.805s] running install_egg_info
+[1.809s] Copying ../../build/my_nodes/my_nodes.egg-info to /home/dakshata/ros2_ws/install/my_nodes/lib/python3.10/site-packages/my_nodes-0.0.0-py3.10.egg-info
+[1.810s] running install_scripts
+[1.850s] Installing integer_generator script to /home/dakshata/ros2_ws/install/my_nodes/lib/my_nodes
+[1.850s] Installing odd_even_classifier script to /home/dakshata/ros2_ws/install/my_nodes/lib/my_nodes
+[1.850s] writing list of installed files to '/home/dakshata/ros2_ws/build/my_nodes/install.log'
+[1.883s] Invoked command in '/home/dakshata/ros2_ws/src/my_nodes' returned '0': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/dakshata/ros2_ws/build/my_nodes/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/dakshata/ros2_ws/install/my_nodes/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_nodes build --build-base /home/dakshata/ros2_ws/build/my_nodes/build install --record /home/dakshata/ros2_ws/build/my_nodes/install.log --single-version-externally-managed install_data

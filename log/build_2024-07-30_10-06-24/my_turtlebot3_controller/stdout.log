@@ -1,0 +1,35 @@
+running egg_info
+creating ../../build/my_turtlebot3_controller/my_turtlebot3_controller.egg-info
+writing ../../build/my_turtlebot3_controller/my_turtlebot3_controller.egg-info/PKG-INFO
+writing dependency_links to ../../build/my_turtlebot3_controller/my_turtlebot3_controller.egg-info/dependency_links.txt
+writing entry points to ../../build/my_turtlebot3_controller/my_turtlebot3_controller.egg-info/entry_points.txt
+writing requirements to ../../build/my_turtlebot3_controller/my_turtlebot3_controller.egg-info/requires.txt
+writing top-level names to ../../build/my_turtlebot3_controller/my_turtlebot3_controller.egg-info/top_level.txt
+writing manifest file '../../build/my_turtlebot3_controller/my_turtlebot3_controller.egg-info/SOURCES.txt'
+reading manifest file '../../build/my_turtlebot3_controller/my_turtlebot3_controller.egg-info/SOURCES.txt'
+writing manifest file '../../build/my_turtlebot3_controller/my_turtlebot3_controller.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/dakshata/ros2_ws/build/my_turtlebot3_controller/build
+creating /home/dakshata/ros2_ws/build/my_turtlebot3_controller/build/lib
+creating /home/dakshata/ros2_ws/build/my_turtlebot3_controller/build/lib/my_turtlebot3_controller
+copying my_turtlebot3_controller/__init__.py -> /home/dakshata/ros2_ws/build/my_turtlebot3_controller/build/lib/my_turtlebot3_controller
+copying my_turtlebot3_controller/controller.py -> /home/dakshata/ros2_ws/build/my_turtlebot3_controller/build/lib/my_turtlebot3_controller
+running install
+running install_lib
+creating /home/dakshata/ros2_ws/install/my_turtlebot3_controller/lib/python3.10/site-packages/my_turtlebot3_controller
+copying /home/dakshata/ros2_ws/build/my_turtlebot3_controller/build/lib/my_turtlebot3_controller/__init__.py -> /home/dakshata/ros2_ws/install/my_turtlebot3_controller/lib/python3.10/site-packages/my_turtlebot3_controller
+copying /home/dakshata/ros2_ws/build/my_turtlebot3_controller/build/lib/my_turtlebot3_controller/controller.py -> /home/dakshata/ros2_ws/install/my_turtlebot3_controller/lib/python3.10/site-packages/my_turtlebot3_controller
+byte-compiling /home/dakshata/ros2_ws/install/my_turtlebot3_controller/lib/python3.10/site-packages/my_turtlebot3_controller/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/dakshata/ros2_ws/install/my_turtlebot3_controller/lib/python3.10/site-packages/my_turtlebot3_controller/controller.py to controller.cpython-310.pyc
+running install_data
+creating /home/dakshata/ros2_ws/install/my_turtlebot3_controller/share/ament_index
+creating /home/dakshata/ros2_ws/install/my_turtlebot3_controller/share/ament_index/resource_index
+creating /home/dakshata/ros2_ws/install/my_turtlebot3_controller/share/ament_index/resource_index/packages
+copying resource/my_turtlebot3_controller -> /home/dakshata/ros2_ws/install/my_turtlebot3_controller/share/ament_index/resource_index/packages
+copying package.xml -> /home/dakshata/ros2_ws/install/my_turtlebot3_controller/share/my_turtlebot3_controller
+running install_egg_info
+Copying ../../build/my_turtlebot3_controller/my_turtlebot3_controller.egg-info to /home/dakshata/ros2_ws/install/my_turtlebot3_controller/lib/python3.10/site-packages/my_turtlebot3_controller-0.0.0-py3.10.egg-info
+running install_scripts
+Installing controller script to /home/dakshata/ros2_ws/install/my_turtlebot3_controller/lib/my_turtlebot3_controller
+writing list of installed files to '/home/dakshata/ros2_ws/build/my_turtlebot3_controller/install.log'
